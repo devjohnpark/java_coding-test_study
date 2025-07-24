@@ -8,6 +8,7 @@
 | 문제 링크와 풀이 | [GitHub - java-algorithm-interview](https://github.com/onlybooks/java-algorithm-interview?tab=readme-ov-file) |
 | 참고 교재     | 자바 알고리즘 인터뷰 with Kotlin (저자: 박상길)                                                                             |
 
+<br/>
 
 ## 일정
 
@@ -23,12 +24,16 @@
 | 15장 힙                | 09.21일  |
 | 16장 트라이            | 09.28일  |
 
+<br/>
+
 
 ## 멤버소개
 
 |[![](https://github.com/devjohnpark.png?width=200px)](https://github.com/devjohnpark)|[![](https://github.com/al1kite.png?width=200px)](https://github.com/al1kite) |[![](https://github.com/rosieisor.png?width=200px)](https://github.com/rosieisor) | [![](https://github.com/seoyeon-jung.png?width=200px)](https://github.com/seoyeon-jung)|[![](https://github.com/threehHong.png?width=200px)](https://github.com/threehHong)|
 |:---:|:---:|:---:|:---:|:---:|
 | 준서 | 다연 | 지륜 | 서연 | 효헌 |
+
+<br/>
 
 ## 기여 규칙
 
@@ -37,6 +42,7 @@
 3. 생성된 폴더에 자신의 소스코드를 업로드 하며, `커밋 규칙`을 지키도록한다!
 4. 원본 저장소로 `Pull Request`를 한다. (매주 3문제 이상, 매주 **토요일**에 Merge예정)
 
+<br/>
 
 ## 레포 디렉터리 구조
 
@@ -47,6 +53,7 @@
 	* Leetcode: LTC
 	* Programmers: PGS
 
+<br/>
 
 ## 커밋 규칙
 
@@ -57,6 +64,7 @@ git commit -m "[코딩테스트플랫폼] 문제번호 문제푸는데걸린시�
  * EX1) `git commit -m "[LTC] 20 20m"`
  * EX2) `git commit -m "[PGS] 23442 65m"`
 
+<br/>
 
 ## PR 규칙
 
