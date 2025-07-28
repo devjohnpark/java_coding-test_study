@@ -2,7 +2,7 @@
 
 | 항목        | 내용                                                                                                            |
 | --------- | ------------------------------------------------------------------------------------------------------------- |
-| 진행 기간     | 시즌1: 2023년 08월 03일                                                                                            |
+| 진행 기간     | 시즌1: 2023년 08월 03일 ~                                                                                            |
 | 스터디 장소    | 강남역                                                                                                           |
 | 정기 스터디 시간 | 일요일 19:00 ~ 21:00 [2h]                                                                                        |
 | 문제 링크와 풀이 | [GitHub - java-algorithm-interview](https://github.com/onlybooks/java-algorithm-interview?tab=readme-ov-file) |
@@ -47,8 +47,8 @@
 ## 레포 디렉터리 구조
 
 * 깃허브아이디/주차별토픽/코딩테스트플랫폼-문제번호.java
-	* EX1) `devjohnpark/array/LTC-20.java`
-	* EX2) `devjohnpark/array/PGS-25421.java`
+	* EX1) `devjohnpark/array/LTC_20.java`
+	* EX2) `devjohnpark/array/PGS_25421.java`
 * 코딩 테스트 플랫폼 컨벤션
 	* Leetcode: LTC
 	* Programmers: PGS
