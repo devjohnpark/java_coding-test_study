@@ -12,16 +12,16 @@ class LTC_15 {
                 int sum = nums[i] + nums[j] + nums[k];
 
                 if (sum < 0) {
-                    j++;
+                    j++; // 합이 0보다 작은 경우 큰 요소값으로 이동
                 } else if (sum > 0) {
-                    k--;
+                    k--; // 합이 0보다 작은 경우 작은 요소값으로 이동
                 } else {
-	            // 합 0이면, 리스트에 추가
+		            // 합 0이면, 리스트에 추가
                     resultList.add(Arrays.asList(nums[i], nums[j], nums[k]));
 
-     		    // 이전에 추가했던 조합은 건너뛰기
-                    while (j < k && nums[j] == nums[j + 1]) j++; // j 중복 제거 
-                    while (j < k && nums[k] == nums[k - 1]) k--; // k 중복 제거
+					// 이전에 추가했던 조합은 건너뛰기
+                    while (j < k && nums[j] == nums[j + 1]) j++; // 왼쪽 요소값 중복 제거 
+                    while (j < k && nums[k] == nums[k - 1]) k--; // 오른쪽 요소값 중복 제거
 
                     j++;
                     k--;
