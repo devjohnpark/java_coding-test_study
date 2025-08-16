@@ -26,12 +26,11 @@
 
 <br/>
 
+#### 멤버소개
 
-## 멤버소개
-
-|[![](https://github.com/devjohnpark.png?width=200px)](https://github.com/devjohnpark)|[![](https://github.com/al1kite.png?width=200px)](https://github.com/al1kite) |[![](https://github.com/rosieisor.png?width=200px)](https://github.com/rosieisor) | [![](https://github.com/seoyeon-jung.png?width=200px)](https://github.com/seoyeon-jung)|[![](https://github.com/threehHong.png?width=200px)](https://github.com/threehHong)|
-|:---:|:---:|:---:|:---:|:---:|
-| 준서 | 다연 | 지륜 | 서연 | 효헌 |
+|[![](https://github.com/devjohnpark.png?width=200px)](https://github.com/devjohnpark)|[![](https://github.com/al1kite.png?width=200px)](https://github.com/al1kite) |[![](https://github.com/rosieisor.png?width=200px)](https://github.com/rosieisor) |[![](https://github.com/threehHong.png?width=200px)](https://github.com/threehHong)|
+|:---:|:---:|:---:|:---:|
+| 준서 | 다연 | 지륜 | 효헌 |
 
 <br/>
 
